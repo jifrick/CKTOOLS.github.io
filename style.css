@@ -1,0 +1,132 @@
+body{
+    background-image: url(backgroundimg1.png);
+    background-size: 200px;
+    background-repeat: repeat-x;
+    background-color: #F5F5F5;
+}
+#firsthd{
+    color: #2E2E2E;
+}
+.machinery-box {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+  float: left;
+}
+
+.machinery-box img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.machinery-name {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.machineryrental-price {
+  color: green;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.machinery-box2 {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+}
+
+.machinery-box2 img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.machinery-name2 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.machineryrental-price2 {
+  color: green;
+  font-size: 18px;
+  margin-top: 5px;
+}
+
+.machinery-box3 {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+  float: right;
+}
+
+.machinery-box3 img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.machinery-name3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.machineryrental-price3 {
+  color: green;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.machinery-box4 {
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  text-align: center;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  font-family: Arial, sans-serif;
+  margin-top: 20px;
+  float: left;
+}
+
+.machinery-box4 img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.machinery-name4 {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.machineryrental-price4 {
+  color: green;
+  font-size: 18px;
+  margin-top: 5px;
+}
+.row {
+  align-items: flex-start; /* ensures top alignment */
+}
