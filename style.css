@@ -17,7 +17,7 @@ body{
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   font-family: Arial, sans-serif;
   margin-top: 20px;
-  float: left;
+  margin-left: 20px;
 }
 
 .machinery-box img {
@@ -37,6 +37,7 @@ body{
   font-size: 18px;
   margin-top: 5px;
 }
+
 .machinery-box2 {
   border: 2px solid #ccc;
   border-radius: 10px;
@@ -47,6 +48,7 @@ body{
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   font-family: Arial, sans-serif;
   margin-top: 20px;
+  margin-left: 50px;
 }
 
 .machinery-box2 img {
@@ -77,7 +79,7 @@ body{
   box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   font-family: Arial, sans-serif;
   margin-top: 20px;
-  float: right;
+  margin-left: 100px;
 }
 
 .machinery-box3 img {
@@ -97,36 +99,7 @@ body{
   font-size: 18px;
   margin-top: 5px;
 }
-.machinery-box4 {
-  border: 2px solid #ccc;
-  border-radius: 10px;
-  padding: 20px;
-  width: 300px;
-  text-align: center;
-  background-color: #f9f9f9;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  font-family: Arial, sans-serif;
-  margin-top: 20px;
-  float: left;
-}
-
-.machinery-box4 img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-}
-
-.machinery-name4 {
-  font-size: 20px;
-  font-weight: bold;
-  margin: 10px 0;
-}
-
-.machineryrental-price4 {
-  color: green;
-  font-size: 18px;
-  margin-top: 5px;
-}
 .row {
   align-items: flex-start; /* ensures top alignment */
 }
+
